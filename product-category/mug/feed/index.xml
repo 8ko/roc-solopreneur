@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mug &#8211; kahel lynn.</title>
+	<atom:link href="https://8ko.github.io/roc-solopreneur/product-category/mug/feed/" rel="self" type="application/rss+xml" />
+	<link>https://8ko.github.io/roc-solopreneur</link>
+	<description>solopreneur sample website.</description>
+	<lastBuildDate>Thu, 24 Feb 2022 12:05:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+
+<image>
+	<url>https://8ko.github.io/roc-solopreneur/wp-content/uploads/2021/04/tumblr_lkl5uogPSs1qfamg6540.gif</url>
+	<title>mug &#8211; kahel lynn.</title>
+	<link>https://8ko.github.io/roc-solopreneur</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>sample mug #04</title>
+		<link>https://8ko.github.io/roc-solopreneur/product/sample-mug-04/</link>
+					<comments>https://8ko.github.io/roc-solopreneur/product/sample-mug-04/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 06:24:48 +0000</pubDate>
+				<guid isPermaLink="false">https://8ko.github.io/roc-solopreneur/?post_type=product&#038;p=1590</guid>
+
+					<description><![CDATA[This is a Sample Product.]]></description>
+										<content:encoded><![CDATA[This is a Sample Product.]]></content:encoded>
+					
+					<wfw:commentRss>https://8ko.github.io/roc-solopreneur/product/sample-mug-04/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>sample mug #03</title>
+		<link>https://8ko.github.io/roc-solopreneur/product/sample-mug-03/</link>
+					<comments>https://8ko.github.io/roc-solopreneur/product/sample-mug-03/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 06:17:59 +0000</pubDate>
+				<guid isPermaLink="false">https://8ko.github.io/roc-solopreneur/?post_type=product&#038;p=1589</guid>
+
+					<description><![CDATA[This is a Sample Product.]]></description>
+										<content:encoded><![CDATA[This is a Sample Product.]]></content:encoded>
+					
+					<wfw:commentRss>https://8ko.github.io/roc-solopreneur/product/sample-mug-03/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>sample mug #02</title>
+		<link>https://8ko.github.io/roc-solopreneur/product/sample-mug-02/</link>
+					<comments>https://8ko.github.io/roc-solopreneur/product/sample-mug-02/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 06:15:29 +0000</pubDate>
+				<guid isPermaLink="false">https://8ko.github.io/roc-solopreneur/?post_type=product&#038;p=1588</guid>
+
+					<description><![CDATA[This is a Sample Product.]]></description>
+										<content:encoded><![CDATA[This is a Sample Product.]]></content:encoded>
+					
+					<wfw:commentRss>https://8ko.github.io/roc-solopreneur/product/sample-mug-02/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>sample mug #01</title>
+		<link>https://8ko.github.io/roc-solopreneur/product/sample-mug-01/</link>
+					<comments>https://8ko.github.io/roc-solopreneur/product/sample-mug-01/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 06:14:10 +0000</pubDate>
+				<guid isPermaLink="false">https://8ko.github.io/roc-solopreneur/?post_type=product&#038;p=1583</guid>
+
+					<description><![CDATA[This is a Sample Product.]]></description>
+										<content:encoded><![CDATA[This is a Sample Product.]]></content:encoded>
+					
+					<wfw:commentRss>https://8ko.github.io/roc-solopreneur/product/sample-mug-01/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

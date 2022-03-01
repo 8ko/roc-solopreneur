@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>clothing &#8211; kahel lynn.</title>
+	<atom:link href="https://8ko.github.io/roc-solopreneur/product-category/clothing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://8ko.github.io/roc-solopreneur</link>
+	<description>solopreneur sample website.</description>
+	<lastBuildDate>Thu, 24 Feb 2022 12:04:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+
+<image>
+	<url>https://8ko.github.io/roc-solopreneur/wp-content/uploads/2021/04/tumblr_lkl5uogPSs1qfamg6540.gif</url>
+	<title>clothing &#8211; kahel lynn.</title>
+	<link>https://8ko.github.io/roc-solopreneur</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sample Shirt #04</title>
+		<link>https://8ko.github.io/roc-solopreneur/product/sample-shirt-04/</link>
+					<comments>https://8ko.github.io/roc-solopreneur/product/sample-shirt-04/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 06:00:37 +0000</pubDate>
+				<guid isPermaLink="false">https://8ko.github.io/roc-solopreneur/?post_type=product&#038;p=1573</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://8ko.github.io/roc-solopreneur/product/sample-shirt-04/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sample Shirt #03</title>
+		<link>https://8ko.github.io/roc-solopreneur/product/sample-shirt-03/</link>
+					<comments>https://8ko.github.io/roc-solopreneur/product/sample-shirt-03/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 05:59:40 +0000</pubDate>
+				<guid isPermaLink="false">https://8ko.github.io/roc-solopreneur/?post_type=product&#038;p=1570</guid>
+
+					<description><![CDATA[This is a Sample Shirt.]]></description>
+										<content:encoded><![CDATA[This is a Sample Shirt.]]></content:encoded>
+					
+					<wfw:commentRss>https://8ko.github.io/roc-solopreneur/product/sample-shirt-03/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sample Shirt #02</title>
+		<link>https://8ko.github.io/roc-solopreneur/product/sample-shirt-02/</link>
+					<comments>https://8ko.github.io/roc-solopreneur/product/sample-shirt-02/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 05:54:31 +0000</pubDate>
+				<guid isPermaLink="false">https://8ko.github.io/roc-solopreneur/?post_type=product&#038;p=1567</guid>
+
+					<description><![CDATA[This is a Sample Shirt]]></description>
+										<content:encoded><![CDATA[This is a Sample Shirt]]></content:encoded>
+					
+					<wfw:commentRss>https://8ko.github.io/roc-solopreneur/product/sample-shirt-02/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sample Shirt #01</title>
+		<link>https://8ko.github.io/roc-solopreneur/product/sample-shirt-01/</link>
+					<comments>https://8ko.github.io/roc-solopreneur/product/sample-shirt-01/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 05:50:00 +0000</pubDate>
+				<guid isPermaLink="false">https://8ko.github.io/roc-solopreneur/?post_type=product&#038;p=1564</guid>
+
+					<description><![CDATA[This is a Sample Shirt]]></description>
+										<content:encoded><![CDATA[<p>Try</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://8ko.github.io/roc-solopreneur/product/sample-shirt-01/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

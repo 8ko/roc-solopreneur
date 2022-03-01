@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>accessories &#8211; kahel lynn.</title>
+	<atom:link href="https://8ko.github.io/roc-solopreneur/product-category/accessories/feed/" rel="self" type="application/rss+xml" />
+	<link>https://8ko.github.io/roc-solopreneur</link>
+	<description>solopreneur sample website.</description>
+	<lastBuildDate>Thu, 24 Feb 2022 12:05:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+
+<image>
+	<url>https://8ko.github.io/roc-solopreneur/wp-content/uploads/2021/04/tumblr_lkl5uogPSs1qfamg6540.gif</url>
+	<title>accessories &#8211; kahel lynn.</title>
+	<link>https://8ko.github.io/roc-solopreneur</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>sample product  #04</title>
+		<link>https://8ko.github.io/roc-solopreneur/product/sample-product-04/</link>
+					<comments>https://8ko.github.io/roc-solopreneur/product/sample-product-04/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 06:33:37 +0000</pubDate>
+				<guid isPermaLink="false">https://8ko.github.io/roc-solopreneur/?post_type=product&#038;p=1598</guid>
+
+					<description><![CDATA[This is a Sample Product.]]></description>
+										<content:encoded><![CDATA[This is a Sample Product.]]></content:encoded>
+					
+					<wfw:commentRss>https://8ko.github.io/roc-solopreneur/product/sample-product-04/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>sample keychain #03</title>
+		<link>https://8ko.github.io/roc-solopreneur/product/sample-keychain-03/</link>
+					<comments>https://8ko.github.io/roc-solopreneur/product/sample-keychain-03/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 06:32:27 +0000</pubDate>
+				<guid isPermaLink="false">https://8ko.github.io/roc-solopreneur/?post_type=product&#038;p=1597</guid>
+
+					<description><![CDATA[This is a Sample Product.]]></description>
+										<content:encoded><![CDATA[This is a Sample Product.]]></content:encoded>
+					
+					<wfw:commentRss>https://8ko.github.io/roc-solopreneur/product/sample-keychain-03/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>sample keychain #02</title>
+		<link>https://8ko.github.io/roc-solopreneur/product/sample-keychain-02/</link>
+					<comments>https://8ko.github.io/roc-solopreneur/product/sample-keychain-02/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 06:30:43 +0000</pubDate>
+				<guid isPermaLink="false">https://8ko.github.io/roc-solopreneur/?post_type=product&#038;p=1596</guid>
+
+					<description><![CDATA[This is a Sample Product.]]></description>
+										<content:encoded><![CDATA[This is a Sample Product.]]></content:encoded>
+					
+					<wfw:commentRss>https://8ko.github.io/roc-solopreneur/product/sample-keychain-02/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>sample keychain #01</title>
+		<link>https://8ko.github.io/roc-solopreneur/product/sample-keychain-01/</link>
+					<comments>https://8ko.github.io/roc-solopreneur/product/sample-keychain-01/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Thu, 24 Feb 2022 06:29:24 +0000</pubDate>
+				<guid isPermaLink="false">https://8ko.github.io/roc-solopreneur/?post_type=product&#038;p=1591</guid>
+
+					<description><![CDATA[This is a Sample Product.]]></description>
+										<content:encoded><![CDATA[This is a Sample Product.]]></content:encoded>
+					
+					<wfw:commentRss>https://8ko.github.io/roc-solopreneur/product/sample-keychain-01/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
